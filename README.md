@@ -16,6 +16,9 @@
   <img align="center" alt="Jupyter-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Enzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Enzo-gif" height="200" width="200" src="https://github.com/enzzodani/enzzodani/assets/135847182/3bb0617c-3bdf-40cd-8e8d-1d5a1dfde8ae">
+<div style="display: flex;">
+  <img src="https://github.com/enzzodani/enzzodani/assets/135847182/3bb0617c-3bdf-40cd-8e8d-1d5a1dfde8ae" alt="Gif 1" style="width: 25%;">
+  <img src="https://github.com/enzzodani/enzzodani/assets/135847182/e415a3ac-a926-4e92-a466-52585d585c9c" alt="Gif 2" style="width: 25%;">
 </div>
+
+
