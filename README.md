@@ -27,5 +27,7 @@
 <div style="display: flex;">
   <img src="https://github.com/enzzodani/enzzodani/assets/135847182/3bb0617c-3bdf-40cd-8e8d-1d5a1dfde8ae" alt="Gif 1" style="width: 25%;">
   <img src="https://github.com/enzzodani/enzzodani/assets/135847182/e415a3ac-a926-4e92-a466-52585d585c9c" alt="Gif 2" style="width: 25%;">
-</div>
+</div><br/>
+
+![snake gif](https://github.com/enzzodani/enzzodani/blob/output/github-contribution-grid-snake.svg)
 
