@@ -5,7 +5,6 @@
 - 📫 How to reach me: gomes.enzodani@gmail.com
 - 😄 Pronouns and Country: He/Him (Brazil)
   
-![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b1e44a5f038d81eeb5005a?variant=dark)
 <a href="https://github.com/enzzodani/github-readme">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=enzzodani&show_icons=true&theme=cobalt" />
 </a>
