@@ -9,19 +9,19 @@
   <img src="https://github.com/enzzodani/enzzodani/assets/135847182/e415a3ac-a926-4e92-a466-52585d585c9c" alt="Gif 2" style="width: 25%;">
 </div><br/>
   
-### My contacts ☎️
+### _My contacts ☎️_
 ---
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gomes.enzodani@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/enzzodani/)
 
-### Statistics 📈
+### _Statistics 📈_
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzzodani&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enzzodani&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-### Skills 🔥:
+### _Skills 🔥:_
 ---
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
