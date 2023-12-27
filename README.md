@@ -9,20 +9,12 @@
   <img src="https://github.com/enzzodani/enzzodani/assets/135847182/e415a3ac-a926-4e92-a466-52585d585c9c" alt="Gif 2" style="width: 25%;">
 </div><br/>
   
-<<<<<<< HEAD
-### *My contacts ☎️*
-=======
 ### _My contacts ☎️_
->>>>>>> refs/remotes/origin/main
 ---
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gomes.enzodani@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/enzzodani/)
 
-<<<<<<< HEAD
 ### *Statistics 📈*
-=======
-### _Statistics 📈_
->>>>>>> refs/remotes/origin/main
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzzodani&theme=aura)
 
@@ -30,11 +22,7 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzzodani&theme=aura)
 
-<<<<<<< HEAD
 ### *Skills 🔥:*
-=======
-### _Skills 🔥:_
->>>>>>> refs/remotes/origin/main
 ---
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
