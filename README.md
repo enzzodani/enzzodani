@@ -4,10 +4,7 @@
 - 🌱 I’m currently learning Java
 - 😄 Pronouns and Country: He/Him (Brazil)
 
-<div style="display: flex;">
-  <img src="https://github.com/enzzodani/enzzodani/assets/135847182/3bb0617c-3bdf-40cd-8e8d-1d5a1dfde8ae" alt="Gif 1" style="width: 25%;">
-  <img src="https://github.com/enzzodani/enzzodani/assets/135847182/e415a3ac-a926-4e92-a466-52585d585c9c" alt="Gif 2" style="width: 25%;">
-</div><br/>
+<IMG SRC="enzogif.gif" class="animated-gif" width="250" height="250"/> <IMG SRC="enzogif2.gif" class="animated-gif" width="250" height="250"/>
   
 ### _My contacts ☎️_
 ---
