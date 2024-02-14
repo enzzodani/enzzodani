@@ -1,7 +1,8 @@
 # *Welcome!! I am Enzo Daniel Marinho 👋*
 
-- 🔭 I am currently studying Computer Engineering
-- 🌱 I’m currently learning Java
+- 🐧 I'm Linux Enthusiast who likes to play around with Computers and some others stuffs.
+- 🔭 I'm currently studying Computer Engineering while I try to learn how to get out of Vim 
+- 🌱 I like studying Linux, Bash, Rice, Networks, DevOps and Cybersecurity 
 - 😄 Pronouns and Country: He/Him (Brazil)
 
 <IMG SRC="enzogif.gif" class="animated-gif" width="250" height="250"/> <IMG SRC="enzogif2.gif" class="animated-gif" width="250" height="250"/>
