@@ -9,16 +9,15 @@
   
 ### _My contacts ☎️_
 ---
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gomes.enzodani@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/enzzodani/)
+[![E-mail](https://img.shields.io/badge/-Email-8a653b?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gomes.enzodani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8a653b?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/enzzodani)
+
 
 ### *Statistics 📈*
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzzodani&theme=aura)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzzodani&theme=gruvbox)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enzzodani&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enzzodani&theme=aura)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzzodani&theme=aura)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzzodani&theme=gruvbox)
 
 ### *Skills 🔥:*
 ---
