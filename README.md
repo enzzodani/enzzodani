@@ -22,11 +22,6 @@
 ### *Skills 🔥:*
 ---
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-
-
-
-
-
+![Markdown](https://img.shields.io/badge/Markdown-8a653b?style=for-the-badge&logo=markdown)
+![Java](https://img.shields.io/badge/Java-8a653b?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-8a653b?style=for-the-badge&logo=c)
