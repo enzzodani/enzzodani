@@ -23,5 +23,8 @@
 ---
 
 ![Markdown](https://img.shields.io/badge/Markdown-8a653b?style=for-the-badge&logo=markdown)
-![Java](https://img.shields.io/badge/Java-8a653b?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-8a653b?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/python-8a653b?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-8a653b?style=for-the-badge&logo=arch-linux&logoColor=fff)
+![Kali Linux](https://img.shields.io/badge/Kali-8a653b?style=for-the-badge&logo=kalilinux&logoColor=white)
+
