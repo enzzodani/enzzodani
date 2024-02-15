@@ -15,7 +15,7 @@
 
 ### *Statistics 📈*
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzzodani&theme=gruvbox)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enzzodani&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzzodani&theme=gruvbox&show_icons=true&include_all_commits=true&custom_title=enzzodani&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enzzodani&theme=gruvbox&layout=donut)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzzodani&theme=gruvbox)
 
