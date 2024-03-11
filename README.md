@@ -10,7 +10,7 @@
 ### _My contacts ☎️_
 ---
 [![E-mail](https://img.shields.io/badge/-Email-8a653b?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gomes.enzodani@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8a653b?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/enzzodani)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8a653b?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/enzzodani/)
 
 
 ### *Statistics 📈*
