@@ -1,8 +1,11 @@
 name: Update README cards
 on:
   schedule:
-    - cron: "0 3 * * *" # Roda todo dia às 03:00
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "0 3 * * *" 
+  workflow_dispatch: 
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Resolve o aviso de depreciação do Node.js
 
 jobs:
   build:
@@ -21,7 +24,7 @@ jobs:
       - name: Generate languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: languages
+          card: top-langs
           options: username=enzzodani&theme=gruvbox&layout=donut
           path: profile/langs.svg
           token: ${{ secrets.GH_TOKEN }}
